@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Du lieu sinh ra khi chay chuong trinh
+bai2/logs/
+bai3/logs/
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
